@@ -1,79 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=210&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=230&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20UI%2FUX%20Designer%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/Hugo-Code21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Hugo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%8D;Learning+Advanced+Systems+Programming+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=40&lines=%3E+whoami+%E2%86%92+Hugo+%F0%9F%91%8B;%3E+builds+%E2%86%92+pixel-perfect+interfaces+%F0%9F%8E%A8;%3E+ships+%E2%86%92+full+stack+apps+%F0%9F%9A%80;%3E+learning+%E2%86%92+systems+programming+%E2%9A%99%EF%B8%8F;%3E+status+%E2%86%92+open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hugo-Code21&label=Profile+Views&color=ff6ac1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Hugo-Code21?style=for-the-badge&logo=github&color=7F52FF)
-![Location](https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-00c2ff?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Hugo-Code21&label=Visitors&color=ff6ac1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Hugo-Code21?style=for-the-badge&logo=github&color=7F52FF&label=Followers)
+![Stars](https://img.shields.io/github/stars/Hugo-Code21?style=for-the-badge&logo=github&color=00c2ff&label=Stars)
+![Location](https://img.shields.io/badge/Indonesia-🇮🇩-c084fc?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
-## 💫 About Me
+## 👨‍💻 &nbsp;Who Am I?
 
-```js
-const hugo = {
-  name: "Hugo Delvian Maheswara",
-  location: "Indonesia 🇮🇩",
-  roles: ["Full Stack Developer", "UI/UX Designer"],
-  os: "Windows",
-  focus: ["HTML5", "CSS3", "PHP", "JavaScript", "Kotlin"],
-  currentlyLearning: "Advanced Systems Programming",
-  hobbies: ["Coding", "Open Source"],
-  funFact: "I design it in Figma, then build it in code 🎨 → 💻",
-};
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm **Hugo**, a developer from Indonesia who sits right between **design** and **code**. I like prototyping in Figma, then bringing it to life with clean, fast and accessible front-ends, backed by solid back-ends.
+
+Right now I'm digging into **systems programming**, because understanding what happens under the hood makes me a better engineer at every level of the stack.
+
+> 💡 *"Good software looks great, feels fast, and is built to last."*
+
+</td>
+<td width="42%" valign="top">
+
+```yaml
+name:     Hugo Delvian Maheswara
+location: Indonesia 🇮🇩
+roles:
+  - Full Stack Developer
+  - UI/UX Designer
+os:       Windows
+focus:    [HTML5, CSS3, PHP, JS, Kotlin]
+learning: Advanced Systems Programming
+hobbies:  [Coding, Open Source]
 ```
 
-- 🔭 Currently exploring **systems programming** — closer to the metal, one pointer at a time
-- 🎨 I care about how things *look* **and** how they *work*
-- 🌱 Always building, always learning, always contributing to open source
-- 📫 Let's collaborate on something cool!
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack
+## 🚀 &nbsp;Currently
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+| | |
+|---|---|
+| 🔭 **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
+| 🌱 **Learning** | Advanced Systems Programming |
+| 🎨 **Designing** | Clean UI systems in Figma |
+| 🤝 **Open to** | Open source collaboration & freelance projects |
+| ⚡ **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
 
-### ⚙️ Backend & Mobile
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+### 📚 Learning Progress
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+```text
+Systems Programming   ████████░░░░░░░░░░░░  40%
+Kotlin (Android)      ██████████████░░░░░░  70%
+Laravel               ████████████████░░░░  80%
+UI/UX Design          ██████████████████░░  90%
+```
 
-### ☁️ Hosting & Deployment
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+**🌐 Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio&theme=dark" alt="frontend" />
+
+**⚙️ Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,supabase,apache&theme=dark" alt="backend" />
+
+**☁️ Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify&theme=dark" alt="deploy" />
+
+**🎨 Design & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,windows&theme=dark" alt="tools" />
+
+**🔬 Exploring**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash&theme=dark" alt="exploring" />
+
+<br/>
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-### 🧰 Tools & ML
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+</div>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
+
+## 📌 &nbsp;Featured Projects
+
+<!--
+  Replace YOUR_REPO_1 / YOUR_REPO_2 with your real repo names, then delete this comment.
+  Cards update automatically with stars, forks and language.
+-->
+
+<div align="center">
+
+<a href="https://github.com/Hugo-Code21/YOUR_REPO_1">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Hugo-Code21&repo=YOUR_REPO_1&hide_border=true&bg_color=0d1117&title_color=ff6ac1&icon_color=00c2ff&text_color=c9d1d9" alt="Project 1" />
+</a>
+<a href="https://github.com/Hugo-Code21/YOUR_REPO_2">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Hugo-Code21&repo=YOUR_REPO_2&hide_border=true&bg_color=0d1117&title_color=ff6ac1&icon_color=00c2ff&text_color=c9d1d9" alt="Project 2" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -86,9 +133,9 @@ const hugo = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
-## 📈 Contribution Activity
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -96,32 +143,40 @@ const hugo = {
 
 <br/><br/>
 
-### 🐍 My little snake is eating my contributions
+**🐍 My little snake is eating my contributions**
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
-## 🤝 Let's Connect
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
-<!-- Replace the # links with your own profiles -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hugo-Code21&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+<!-- Replace the # links and email with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-Hugo--Code21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugo-Code21)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-7F52FF?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=100&section=footer" width="100%" alt="footer" />
+**⭐ If you like what you see, drop a star on my repos! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
