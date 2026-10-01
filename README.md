@@ -35,13 +35,11 @@ Right now I'm digging into **systems programming**, because understanding what h
 ```yaml
 name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
-roles:
-  - Full Stack Developer
-  - UI/UX Designer
+roles:    [Full Stack Developer, UI/UX Designer]
 os:       Windows
 focus:    [HTML5, CSS3, PHP, JS, Kotlin]
 learning: Advanced Systems Programming
-hobbies:  [Coding, Open Source]
+hobbies:  [Coding, Open Source]  
 ```
 
 </td>
@@ -122,9 +120,8 @@ hobbies:  [Coding, Open Source]
 
 <!-- Replace the # links and email with your own -->
 [![GitHub](https://img.shields.io/badge/GitHub-Hugo--Code21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugo-Code21)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-7F52FF?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugomaheswaradev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-maheswara-dev/)
 
 <br/>
 
