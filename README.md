@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:1572B6&height=200&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=210&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/Hugo-Code21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Hugo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%8D;Learning+Advanced+Systems+Programming+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Hugo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%8D;Learning+Advanced+Systems+Programming+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hugo-Code21&label=Profile+Views&color=7F52FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Hugo-Code21?style=for-the-badge&logo=github&color=1572B6)
-![Location](https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-red?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Hugo-Code21&label=Profile+Views&color=ff6ac1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Hugo-Code21?style=for-the-badge&logo=github&color=7F52FF)
+![Location](https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-00c2ff?style=for-the-badge)
 
 </div>
 
@@ -31,7 +31,7 @@ const hugo = {
 };
 ```
 
-- 🔭 Currently exploring **systems programming** closer to the metal, one pointer at a time
+- 🔭 Currently exploring **systems programming** — closer to the metal, one pointer at a time
 - 🎨 I care about how things *look* **and** how they *work*
 - 🌱 Always building, always learning, always contributing to open source
 - 📫 Let's collaborate on something cool!
@@ -77,22 +77,28 @@ const hugo = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Hugo-Code21&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hugo-Code21&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Hugo-Code21&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117&title_color=ff6ac1&icon_color=00c2ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hugo-Code21&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=ff6ac1&text_color=c9d1d9" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Hugo-Code21&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Hugo-Code21&hide_border=true&background=0d1117&ring=ff6ac1&fire=ffb86c&currStreakNum=00c2ff&sideNums=c084fc&currStreakLabel=ff6ac1&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hugo-Code21&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Code21&bg_color=0d1117&color=c084fc&line=ff6ac1&point=00c2ff&area=true&area_color=7F52FF&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<br/><br/>
+
+### 🐍 My little snake is eating my contributions
+
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
@@ -104,9 +110,9 @@ const hugo = {
 
 <!-- Replace the # links with your own profiles -->
 [![GitHub](https://img.shields.io/badge/GitHub-Hugo--Code21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugo-Code21)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonzztorzz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-7F52FF?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 </div>
 
@@ -116,6 +122,6 @@ const hugo = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:1572B6&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
