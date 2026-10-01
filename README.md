@@ -31,7 +31,7 @@ const hugo = {
 };
 ```
 
-- 🔭 Currently exploring **systems programming** — closer to the metal, one pointer at a time
+- 🔭 Currently exploring **systems programming** closer to the metal, one pointer at a time
 - 🎨 I care about how things *look* **and** how they *work*
 - 🌱 Always building, always learning, always contributing to open source
 - 📫 Let's collaborate on something cool!
