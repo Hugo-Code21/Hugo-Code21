@@ -11,10 +11,4 @@ Name : Hugo Delvian Maheswara<br>Location : Indonesia<br>Role : Full Stack Devel
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hugo-Code21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Hugo-Code21&icon=0&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
