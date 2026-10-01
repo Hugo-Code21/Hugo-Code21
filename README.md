@@ -60,15 +60,6 @@ hobbies:  [Coding, Open Source]
 | 🤝 **Open to** | Open source collaboration & freelance projects |
 | ⚡ **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
 
-### 📚 Learning Progress
-
-```text
-Systems Programming   ████████░░░░░░░░░░░░  40%
-Kotlin (Android)      ██████████████░░░░░░  70%
-Laravel               ████████████████░░░░  80%
-UI/UX Design          ██████████████████░░  90%
-```
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
 
 ## 🛠️ &nbsp;Tech Arsenal
@@ -76,45 +67,35 @@ UI/UX Design          ██████████████████░�
 <div align="center">
 
 **🌐 Frontend & Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio&theme=dark" alt="frontend" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**⚙️ Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,supabase,apache&theme=dark" alt="backend" />
+**⚙️ Backend**<br/>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**☁️ Deployment**<br/>
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify&theme=dark" alt="deploy" />
+**🗄️ Databases**<br/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**🎨 Design & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,windows&theme=dark" alt="tools" />
+**☁️ Hosting & Deployment**<br/>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**🔬 Exploring**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash&theme=dark" alt="exploring" />
-
-<br/>
-
+**🎨 Design**<br/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+**🧰 Tools & ML**<br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 📌 &nbsp;Featured Projects
-
-<!--
-  Replace YOUR_REPO_1 / YOUR_REPO_2 with your real repo names, then delete this comment.
-  Cards update automatically with stars, forks and language.
--->
-
-<div align="center">
-
-<a href="https://github.com/Hugo-Code21/YOUR_REPO_1">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Hugo-Code21&repo=YOUR_REPO_1&hide_border=true&bg_color=0d1117&title_color=ff6ac1&icon_color=00c2ff&text_color=c9d1d9" alt="Project 1" />
-</a>
-<a href="https://github.com/Hugo-Code21/YOUR_REPO_2">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Hugo-Code21&repo=YOUR_REPO_2&hide_border=true&bg_color=0d1117&title_color=ff6ac1&icon_color=00c2ff&text_color=c9d1d9" alt="Project 2" />
-</a>
 
 </div>
 
@@ -130,32 +111,6 @@ UI/UX Design          ██████████████████░�
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Hugo-Code21&hide_border=true&background=0d1117&ring=ff6ac1&fire=ffb86c&currStreakNum=00c2ff&sideNums=c084fc&currStreakLabel=ff6ac1&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Code21&bg_color=0d1117&color=c084fc&line=ff6ac1&point=00c2ff&area=true&area_color=7F52FF&hide_border=true" alt="Contribution Graph" width="100%" />
-
-<br/><br/>
-
-**🐍 My little snake is eating my contributions**
-
-<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hugo-Code21&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
