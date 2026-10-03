@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=230&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20UI%2FUX%20Designer%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
 
+<h3>👋 Hey there, welcome to my little corner of GitHub!</h3>
+
 <a href="https://github.com/Hugo-Code21">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=40&lines=%3E+whoami+%E2%86%92+Hugo+%F0%9F%91%8B;%3E+builds+%E2%86%92+pixel-perfect+interfaces+%F0%9F%8E%A8;%3E+ships+%E2%86%92+full+stack+apps+%F0%9F%9A%80;%3E+learning+%E2%86%92+systems+programming+%E2%9A%99%EF%B8%8F;%3E+status+%E2%86%92+open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
@@ -13,11 +15,15 @@
 ![Stars](https://img.shields.io/github/stars/Hugo-Code21?style=for-the-badge&logo=github&color=00c2ff&label=Stars)
 ![Location](https://img.shields.io/badge/Indonesia-🇮🇩-c084fc?style=for-the-badge)
 
+<br/>
+
+✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 👨‍💻 &nbsp;Who Am I?
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=👨‍💻%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Who Am I" />
+</div>
 
 <table>
 <tr>
@@ -39,16 +45,44 @@ roles:    [Full Stack Developer, UI/UX Designer]
 os:       Windows
 focus:    [HTML5, CSS3, PHP, JS, Kotlin]
 learning: Advanced Systems Programming
-hobbies:  [Coding, Open Source]  
+hobbies:  [Coding, Open Source]
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
+<div align="center">
 
-## 🚀 &nbsp;Currently
+### 🧭 What I Believe In
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h2>🎨</h2>
+<b>Design with care</b><br/>
+<sub>Every pixel has a reason,<br/>every flow feels natural.</sub>
+</td>
+<td align="center" width="33%">
+<h2>⚙️</h2>
+<b>Build it right</b><br/>
+<sub>Clean, fast and maintainable<br/>code from front to back.</sub>
+</td>
+<td align="center" width="33%">
+<h2>🌍</h2>
+<b>Share it openly</b><br/>
+<sub>Learn in public, give back<br/>through open source.</sub>
+</td>
+</tr>
+</table>
+
+✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=🚀%20Currently&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Currently" />
+</div>
 
 | | |
 |---|---|
@@ -58,9 +92,41 @@ hobbies:  [Coding, Open Source]
 | 🤝 **Open to** | Open source collaboration & freelance projects |
 | ⚡ **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
+<div align="center">
 
-## 🛠️ &nbsp;Tech Arsenal
+![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-7F52FF?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Collaboration-Open-ff6ac1?style=flat-square&logo=handshake&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-Available-00c2ff?style=flat-square&logo=upwork&logoColor=white)
+![Coffee](https://img.shields.io/badge/Fuelled%20by-Code%20%26%20Curiosity-c084fc?style=flat-square&logo=buymeacoffee&logoColor=white)
+
+</div>
+
+### 🔄 My Workflow
+
+```mermaid
+flowchart LR
+    A(["💡 Idea"]) --> B(["🎨 Design<br/>in Figma"])
+    B --> C(["💻 Code<br/>it up"])
+    C --> D(["🚀 Deploy"])
+    D --> E(["🔁 Learn &<br/>Iterate"])
+    E -.-> A
+
+    style A fill:#ff6ac1,stroke:#ff6ac1,color:#0d1117
+    style B fill:#c084fc,stroke:#c084fc,color:#0d1117
+    style C fill:#7F52FF,stroke:#7F52FF,color:#ffffff
+    style D fill:#00c2ff,stroke:#00c2ff,color:#0d1117
+    style E fill:#ff6ac1,stroke:#ff6ac1,color:#0d1117
+```
+
+<div align="center">
+
+✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🛠️%20Tech%20Arsenal&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Tech Arsenal" />
+</div>
 
 <div align="center">
 
@@ -95,11 +161,13 @@ hobbies:  [Coding, Open Source]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 📊 &nbsp;GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c084fc,100:ff6ac1&height=70&section=header&text=📊%20GitHub%20Stats&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
@@ -110,15 +178,24 @@ hobbies:  [Coding, Open Source]
 
 <img src="https://streak-stats.demolab.com/?user=Hugo-Code21&hide_border=true&background=0d1117&ring=ff6ac1&fire=ffb86c&currStreakNum=00c2ff&sideNums=c084fc&currStreakLabel=ff6ac1&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugo-Code21&theme=radical" alt="Profile Details" />
+
+✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=3" width="100%" alt="divider" />
-
-## 🤝 &nbsp;Let's Connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:00c2ff&height=70&section=header&text=🤝%20Let's%20Connect&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Let's Connect" />
+</div>
 
 <div align="center">
 
-<!-- Replace the # links and email with your own -->
+<sub>Got an idea, a project, or just want to say hi? My inbox is always open 💌</sub>
+
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Hugo--Code21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugo-Code21)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugomaheswaradev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-maheswara-dev/)
@@ -127,7 +204,7 @@ hobbies:  [Coding, Open Source]
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**⭐ If you like what you see, drop a star on my repos! ⭐**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=ff6ac1&center=true&vCenter=true&width=480&height=30&lines=Thanks+for+stopping+by+%E2%9C%A8;Happy+coding!+%F0%9F%92%BB;Don't+forget+to+drop+a+%E2%AD%90" alt="Thanks" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=110&section=footer" width="100%" alt="footer" />
 
