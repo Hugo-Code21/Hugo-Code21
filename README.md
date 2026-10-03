@@ -25,18 +25,20 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=👨‍💻%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Who Am I" />
 </div>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle" align="center">
 
-I'm **Hugo**, a developer from Indonesia who sits right between **design** and **code**. I like prototyping in Figma, then bringing it to life with clean, fast and accessible front-ends, backed by solid back-ends.
+<p align="center">I'm <b>Hugo</b>, a developer from Indonesia who sits right between <b>design</b> and <b>code</b>. I like prototyping in Figma, then bringing it to life with clean, fast and accessible front-ends, backed by solid back-ends.</p>
 
-Right now I'm digging into **systems programming**, because understanding what happens under the hood makes me a better engineer at every level of the stack.
+<p align="center">Right now I'm digging into <b>systems programming</b>, because understanding what happens under the hood makes me a better engineer at every level of the stack.</p>
 
-> 💡 *"Good software looks great, feels fast, and is built to last."*
+<p align="center"><i>💡 "Good software looks great, feels fast, and is built to last."</i></p>
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" valign="middle" align="center">
 
 ```yaml
 name:     Hugo Delvian Maheswara
@@ -51,6 +53,8 @@ hobbies:  [Coding, Open Source]
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
@@ -84,6 +88,8 @@ hobbies:  [Coding, Open Source]
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=🚀%20Currently&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Currently" />
 </div>
 
+<div align="center">
+
 | | |
 |---|---|
 | 🔭 **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
@@ -91,6 +97,8 @@ hobbies:  [Coding, Open Source]
 | 🎨 **Designing** | Clean UI systems in Figma |
 | 🤝 **Open to** | Open source collaboration & freelance projects |
 | ⚡ **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
+
+</div>
 
 <div align="center">
 
@@ -101,22 +109,21 @@ hobbies:  [Coding, Open Source]
 
 </div>
 
-### 🔄 My Workflow
+<div align="center">
 
-```mermaid
-flowchart LR
-    A(["💡 Idea"]) --> B(["🎨 Design<br/>in Figma"])
-    B --> C(["💻 Code<br/>it up"])
-    C --> D(["🚀 Deploy"])
-    D --> E(["🔁 Learn &<br/>Iterate"])
-    E -.-> A
+<h3>🔄 My Workflow</h3>
 
-    style A fill:#ff6ac1,stroke:#ff6ac1,color:#0d1117
-    style B fill:#c084fc,stroke:#c084fc,color:#0d1117
-    style C fill:#7F52FF,stroke:#7F52FF,color:#ffffff
-    style D fill:#00c2ff,stroke:#00c2ff,color:#0d1117
-    style E fill:#ff6ac1,stroke:#ff6ac1,color:#0d1117
-```
+![Idea](https://img.shields.io/badge/💡%20Idea-ff6ac1?style=for-the-badge)
+➜
+![Design](https://img.shields.io/badge/🎨%20Design-c084fc?style=for-the-badge)
+➜
+![Code](https://img.shields.io/badge/💻%20Code-7F52FF?style=for-the-badge)
+➜
+![Deploy](https://img.shields.io/badge/🚀%20Deploy-00c2ff?style=for-the-badge)
+➜
+![Iterate](https://img.shields.io/badge/🔁%20Iterate-ff6ac1?style=for-the-badge)
+
+</div>
 
 <div align="center">
 
