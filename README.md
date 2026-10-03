@@ -29,16 +29,16 @@
 
 <table align="center">
 <tr>
-<td width="58%" valign="middle" align="center">
+<td width="58%" valign="top" align="left">
 
-<p align="center">I'm <b>Hugo</b>, a developer from Indonesia who sits right between <b>design</b> and <b>code</b>. I like prototyping in Figma, then bringing it to life with clean, fast and accessible front-ends, backed by solid back-ends.</p>
+I'm **Hugo**, a developer from Indonesia who sits right between **design** and **code**. I like prototyping in Figma, then bringing it to life with clean, fast and accessible front-ends, backed by solid back-ends.
 
-<p align="center">Right now I'm digging into <b>systems programming</b>, because understanding what happens under the hood makes me a better engineer at every level of the stack.</p>
+Right now I'm digging into **systems programming**, because understanding what happens under the hood makes me a better engineer at every level of the stack.
 
-<p align="center"><i>💡 "Good software looks great, feels fast, and is built to last."</i></p>
+> 💡 *"Good software looks great, feels fast, and is built to last."*
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="42%" valign="top" align="left">
 
 ```yaml
 name:     Hugo Delvian Maheswara
