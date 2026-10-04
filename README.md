@@ -15,9 +15,7 @@
 ![Stars](https://img.shields.io/github/stars/Hugo-Code21?style=for-the-badge&logo=github&color=00c2ff&label=Stars)
 ![Location](https://img.shields.io/badge/Indonesia-🇮🇩-c084fc?style=for-the-badge)
 
-<br/>
-
-✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=60&section=footer" width="100%" alt="" />
 
 </div>
 
@@ -41,6 +39,8 @@ Right now I'm digging into **systems programming**, because understanding what h
 <td width="42%" valign="top" align="left">
 
 ```yaml
+# 🔴 🟡 🟢   hugo@github: ~/profile.yml
+# ─────────────────────────────────────
 name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
 roles:    [Full Stack Developer, UI/UX Designer]
@@ -80,7 +80,7 @@ hobbies:  [Coding, Open Source]
 </tr>
 </table>
 
-✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=70&section=header" width="100%" alt="" />
 
 </div>
 
@@ -113,21 +113,42 @@ hobbies:  [Coding, Open Source]
 
 <h3>🔄 My Workflow</h3>
 
-![Idea](https://img.shields.io/badge/💡%20Idea-ff6ac1?style=for-the-badge)
-➜
-![Design](https://img.shields.io/badge/🎨%20Design-c084fc?style=for-the-badge)
-➜
-![Code](https://img.shields.io/badge/💻%20Code-7F52FF?style=for-the-badge)
-➜
-![Deploy](https://img.shields.io/badge/🚀%20Deploy-00c2ff?style=for-the-badge)
-➜
-![Iterate](https://img.shields.io/badge/🔁%20Iterate-ff6ac1?style=for-the-badge)
+<table align="center">
+<tr>
+<td align="center" valign="top" width="20%">
+<img src="https://img.shields.io/badge/STEP-01-ff6ac1?style=flat-square" alt="Step 01" /><br/>
+<h2>💡</h2>
+<b>Idea</b><br/>
+<sub>Spot a problem<br/>worth solving</sub>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="https://img.shields.io/badge/STEP-02-c084fc?style=flat-square" alt="Step 02" /><br/>
+<h2>🎨</h2>
+<b>Design</b><br/>
+<sub>Prototype the<br/>experience in Figma</sub>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="https://img.shields.io/badge/STEP-03-7F52FF?style=flat-square" alt="Step 03" /><br/>
+<h2>💻</h2>
+<b>Code</b><br/>
+<sub>Build it from<br/>front to back</sub>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="https://img.shields.io/badge/STEP-04-00c2ff?style=flat-square" alt="Step 04" /><br/>
+<h2>🚀</h2>
+<b>Deploy</b><br/>
+<sub>Ship it to<br/>the world</sub>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="https://img.shields.io/badge/STEP-05-ff6ac1?style=flat-square" alt="Step 05" /><br/>
+<h2>🔁</h2>
+<b>Iterate</b><br/>
+<sub>Learn, improve,<br/>repeat</sub>
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
-
-✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:7F52FF,100:ff6ac1&height=60&section=footer" width="100%" alt="" />
 
 </div>
 
@@ -137,38 +158,71 @@ hobbies:  [Coding, Open Source]
 
 <div align="center">
 
-**🌐 Frontend & Mobile**<br/>
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
+
+<h4>🌐 Frontend & Mobile</h4>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**⚙️ Backend**<br/>
+</td>
+<td align="center" valign="top" width="50%">
+
+<h4>⚙️ Backend</h4>
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**🗄️ Databases**<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+
+<h4>🗄️ Databases</h4>
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**☁️ Hosting & Deployment**<br/>
+</td>
+<td align="center" valign="top" width="50%">
+
+<h4>☁️ Hosting & Deployment</h4>
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**🎨 Design**<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+
+<h4>🎨 Design</h4>
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-**🧰 Tools & ML**<br/>
+</td>
+<td align="center" valign="top" width="50%">
+
+<h4>🧰 Tools & ML</h4>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:c084fc,50:7F52FF,100:ff6ac1&height=70&section=header" width="100%" alt="" />
 
 </div>
 
@@ -189,7 +243,39 @@ hobbies:  [Coding, Open Source]
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugo-Code21&theme=radical" alt="Profile Details" />
 
-✦ ━━━━━━━━━━━ ✧ ━━━━━━━━━━━ ✦
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=🏆%20Trophy%20Case&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Trophy Case" />
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hugo-Code21&theme=radical&no-frame=true&no-bg=true&title=Stars,Commits,Repositories,Followers,Experience&row=1&column=5&margin-w=15" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=📈%20Activity%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Code21&bg_color=0d1117&color=00c2ff&line=ff6ac1&point=ffffff&area=true&area_color=7F52FF&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🐍%20Contribution%20Snake&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Contribution Snake" />
+</div>
+
+<div align="center">
+
+<sub>My little snake is munching through my contributions 🟣</sub>
+
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=60&section=footer" width="100%" alt="" />
 
 </div>
 
