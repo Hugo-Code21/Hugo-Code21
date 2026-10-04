@@ -259,6 +259,7 @@ hobbies:  [Coding, Open Source]
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🟣%20Contribution%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Contribution Graph" />
 </div>
 
+<div align="center">
 
 <sub>…and my little snake is munching through them 🐍</sub>
 
