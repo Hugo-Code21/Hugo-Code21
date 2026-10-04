@@ -246,12 +246,14 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=📈%20Activity%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=🧊%203D%20Activity%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="3D Activity Graph" />
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Code21&bg_color=0d1117&color=00c2ff&line=ff6ac1&point=ffffff&area=true&area_color=7F52FF&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
+<sub>My contributions, rendered as a 3D city 🏙️</sub>
+
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Activity Graph" width="100%" />
 
 </div>
 
@@ -260,6 +262,12 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
+
+<sub>Every square is a day of building 🟪</sub>
+
+<img src="https://ghchart.rshah.org/7F52FF/Hugo-Code21" alt="Contribution Graph" width="100%" />
+
+<br/>
 
 <sub>…and my little snake is munching through them 🐍</sub>
 
