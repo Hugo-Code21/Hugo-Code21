@@ -265,10 +265,6 @@ hobbies:  [Coding, Open Source]
 
 <sub>Every square is a day of building 🟪</sub>
 
-<img src="https://ghchart.rshah.org/7F52FF/Hugo-Code21" alt="Contribution Graph" width="100%" />
-
-<br/>
-
 <sub>…and my little snake is munching through them 🐍</sub>
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
