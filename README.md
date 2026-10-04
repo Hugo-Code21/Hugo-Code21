@@ -246,16 +246,6 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=🏆%20Trophy%20Case&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Trophy Case" />
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hugo-Code21&theme=radical&no-frame=true&no-bg=true&title=Stars,Commits,Repositories,Followers,Experience&row=1&column=5&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=📈%20Activity%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Activity Graph" />
 </div>
 
@@ -266,12 +256,18 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🐍%20Contribution%20Snake&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Contribution Snake" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🟣%20Contribution%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Contribution Graph" />
 </div>
 
 <div align="center">
 
-<sub>My little snake is munching through my contributions 🟣</sub>
+<sub>Every square is a day of building 🟪</sub>
+
+<img src="https://ghchart.rshah.org/7F52FF/Hugo-Code21" alt="Contribution Graph" width="100%" />
+
+<br/>
+
+<sub>…and my little snake is munching through them 🐍</sub>
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
