@@ -20,6 +20,39 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=🎧%20Now%20Playing&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Now Playing" />
+</div>
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="100">
+<h1>💿</h1>
+</td>
+<td align="center" valign="middle">
+
+<b>Helena (So Long &amp; Goodnight)</b><br/>
+<sub>My Chemical Romance · <i>Three Cheers for Sweet Revenge</i></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=600&pause=1&color=ff6ac1&center=true&vCenter=true&repeat=true&width=320&height=34&lines=%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85;%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87;%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85;%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83" alt="equalizer" />
+
+<sub>🔀 &nbsp; ⏮ &nbsp; <b>▶</b> &nbsp; ⏭ &nbsp; 🔁</sub>
+
+<br/>
+
+[![Spotify](https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Helena%20My%20Chemical%20Romance)
+[![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=My+Chemical+Romance+Helena)
+
+</td>
+</tr>
+</table>
+
+<sub>🎶 Press play and keep scrolling, this one's on repeat in my head.</sub>
+
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=👨‍💻%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Who Am I" />
 </div>
 
@@ -264,6 +297,10 @@ hobbies:  [Coding, Open Source]
 <div align="center">
 
 <sub>Every square is a day of building 🟪</sub>
+
+<img src="https://ghchart.rshah.org/7F52FF/Hugo-Code21" alt="Contribution Graph" width="100%" />
+
+<br/>
 
 <sub>…and my little snake is munching through them 🐍</sub>
 
