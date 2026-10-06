@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=230&section=header&text=Hugo%20Delvian%20Maheswara&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20UI%2FUX%20Designer%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/hero.svg" width="100%" alt="Hugo Delvian Maheswara" />
 
 <h3>👋 Hey there, welcome to my little corner of GitHub!</h3>
 
@@ -15,45 +15,29 @@
 ![Stars](https://img.shields.io/github/stars/Hugo-Code21?style=for-the-badge&logo=github&color=00c2ff&label=Stars)
 ![Location](https://img.shields.io/badge/Indonesia-🇮🇩-c084fc?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=60&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-wave.svg" width="100%" alt="" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=🎧%20Now%20Playing&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Now Playing" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-nowplaying.svg" width="440" alt="Now Playing" />
 </div>
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="center" valign="middle" width="100">
-<h1>💿</h1>
-</td>
-<td align="center" valign="middle">
-
-<b>Helena (So Long &amp; Goodnight)</b><br/>
-<sub>My Chemical Romance · <i>Three Cheers for Sweet Revenge</i></sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=600&pause=1&color=ff6ac1&center=true&vCenter=true&repeat=true&width=320&height=34&lines=%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85;%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87;%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85;%E2%96%87%E2%96%85%E2%96%83%E2%96%81%E2%96%82%E2%96%84%E2%96%86%E2%96%84%E2%96%82%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83" alt="equalizer" />
-
-<sub>🔀 &nbsp; ⏮ &nbsp; <b>▶</b> &nbsp; ⏭ &nbsp; 🔁</sub>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/player-card.svg" width="760" alt="Now playing: Helena (So Long &amp; Goodnight) by My Chemical Romance" />
 
 <br/>
 
 [![Spotify](https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Helena%20My%20Chemical%20Romance)
 [![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=My+Chemical+Romance+Helena)
 
-</td>
-</tr>
-</table>
-
 <sub>🎶 Press play and keep scrolling, this one's on repeat in my head.</sub>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:7F52FF&height=70&section=header&text=👨‍💻%20Who%20Am%20I%3F&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Who Am I" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-who.svg" width="440" alt="Who Am I" />
 </div>
 
 <div align="center">
@@ -96,40 +80,40 @@ hobbies:  [Coding, Open Source]
 <table>
 <tr>
 <td align="center" width="33%">
-<h2>🎨</h2>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="56" alt="" /><br/>
 <b>Design with care</b><br/>
 <sub>Every pixel has a reason,<br/>every flow feels natural.</sub>
 </td>
 <td align="center" width="33%">
-<h2>⚙️</h2>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="56" alt="" /><br/>
 <b>Build it right</b><br/>
 <sub>Clean, fast and maintainable<br/>code from front to back.</sub>
 </td>
 <td align="center" width="33%">
-<h2>🌍</h2>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="56" alt="" /><br/>
 <b>Share it openly</b><br/>
 <sub>Learn in public, give back<br/>through open source.</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=70&section=header" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-glow.svg" width="100%" alt="" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=🚀%20Currently&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Currently" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-currently.svg" width="440" alt="Currently" />
 </div>
 
 <div align="center">
 
 | | |
 |---|---|
-| 🔭 **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
-| 🌱 **Learning** | Advanced Systems Programming |
-| 🎨 **Designing** | Clean UI systems in Figma |
-| 🤝 **Open to** | Open source collaboration & freelance projects |
-| ⚡ **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="18" align="absmiddle" alt="" /> **Learning** | Advanced Systems Programming |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="18" align="absmiddle" alt="" /> **Designing** | Clean UI systems in Figma |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="18" align="absmiddle" alt="" /> **Open to** | Open source collaboration & freelance projects |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-bolt.svg" width="18" align="absmiddle" alt="" /> **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
 
 </div>
 
@@ -149,44 +133,44 @@ hobbies:  [Coding, Open Source]
 <table align="center">
 <tr>
 <td align="center" valign="top" width="20%">
-<img src="https://img.shields.io/badge/STEP-01-ff6ac1?style=flat-square" alt="Step 01" /><br/>
-<h2>💡</h2>
+<sub><b>STEP 01</b></sub><br/>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-bulb.svg" width="56" alt="" /><br/>
 <b>Idea</b><br/>
 <sub>Spot a problem<br/>worth solving</sub>
 </td>
 <td align="center" valign="top" width="20%">
-<img src="https://img.shields.io/badge/STEP-02-c084fc?style=flat-square" alt="Step 02" /><br/>
-<h2>🎨</h2>
+<sub><b>STEP 02</b></sub><br/>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="56" alt="" /><br/>
 <b>Design</b><br/>
 <sub>Prototype the<br/>experience in Figma</sub>
 </td>
 <td align="center" valign="top" width="20%">
-<img src="https://img.shields.io/badge/STEP-03-7F52FF?style=flat-square" alt="Step 03" /><br/>
-<h2>💻</h2>
+<sub><b>STEP 03</b></sub><br/>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="56" alt="" /><br/>
 <b>Code</b><br/>
 <sub>Build it from<br/>front to back</sub>
 </td>
 <td align="center" valign="top" width="20%">
-<img src="https://img.shields.io/badge/STEP-04-00c2ff?style=flat-square" alt="Step 04" /><br/>
-<h2>🚀</h2>
+<sub><b>STEP 04</b></sub><br/>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-rocket.svg" width="56" alt="" /><br/>
 <b>Deploy</b><br/>
 <sub>Ship it to<br/>the world</sub>
 </td>
 <td align="center" valign="top" width="20%">
-<img src="https://img.shields.io/badge/STEP-05-ff6ac1?style=flat-square" alt="Step 05" /><br/>
-<h2>🔁</h2>
+<sub><b>STEP 05</b></sub><br/>
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-loop.svg" width="56" alt="" /><br/>
 <b>Iterate</b><br/>
 <sub>Learn, improve,<br/>repeat</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:7F52FF,100:ff6ac1&height=60&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-wave.svg" width="100%" alt="" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🛠️%20Tech%20Arsenal&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Tech Arsenal" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-tech.svg" width="440" alt="Tech Arsenal" />
 </div>
 
 <div align="center">
@@ -255,12 +239,12 @@ hobbies:  [Coding, Open Source]
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:c084fc,50:7F52FF,100:ff6ac1&height=70&section=header" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-glow.svg" width="100%" alt="" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c084fc,100:ff6ac1&height=70&section=header&text=📊%20GitHub%20Stats&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-stats.svg" width="440" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -279,7 +263,7 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:00c2ff&height=70&section=header&text=🧊%203D%20Activity%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="3D Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-3d.svg" width="440" alt="3D Activity Graph" />
 </div>
 
 <div align="center">
@@ -291,7 +275,7 @@ hobbies:  [Coding, Open Source]
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:c084fc&height=70&section=header&text=🟣%20Contribution%20Graph&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-contrib.svg" width="440" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -306,12 +290,12 @@ hobbies:  [Coding, Open Source]
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=60&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-wave.svg" width="100%" alt="" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6ac1,100:00c2ff&height=70&section=header&text=🤝%20Let's%20Connect&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="60%" alt="Let's Connect" />
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/banner-connect.svg" width="440" alt="Let's Connect" />
 </div>
 
 <div align="center">
@@ -330,6 +314,6 @@ hobbies:  [Coding, Open Source]
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=ff6ac1&center=true&vCenter=true&width=480&height=30&lines=Thanks+for+stopping+by+%E2%9C%A8;Happy+coding!+%F0%9F%92%BB;Don't+forget+to+drop+a+%E2%AD%90" alt="Thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ac1,50:7F52FF,100:00c2ff&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/divider-wave.svg" width="100%" alt="" />
 
 </div>
