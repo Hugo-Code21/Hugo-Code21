@@ -110,7 +110,7 @@ hobbies:  [Coding, Open Source]
 | | |
 |---|---|
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="18" align="absmiddle" alt="" /> **Learning** | Advanced Systems Programming |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="18" align="absmiddle" alt="" /> **Learning** | Advanced Systems Programming, TypeScript & React |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="18" align="absmiddle" alt="" /> **Designing** | Clean UI systems in Figma |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="18" align="absmiddle" alt="" /> **Open to** | Open source collaboration & freelance projects |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-bolt.svg" width="18" align="absmiddle" alt="" /> **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
@@ -184,6 +184,7 @@ hobbies:  [Coding, Open Source]
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
