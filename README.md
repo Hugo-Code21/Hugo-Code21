@@ -310,6 +310,12 @@ hobbies:  [Coding, Open Source]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-maheswara-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudo.desdev/)
 
+<br/><br/>
+
+<a href="https://www.instagram.com/sudo.desdev/">
+  <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/instagram-card.svg" width="520" alt="Instagram @sudo.desdev" />
+</a>
+
 <br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
