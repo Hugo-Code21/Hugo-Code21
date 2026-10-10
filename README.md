@@ -307,7 +307,6 @@ hobbies:  [Coding, Open Source]
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hugo--Code21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugo-Code21)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugomaheswaradev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-maheswara-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudo.desdev/)
 
 <br/><br/>
