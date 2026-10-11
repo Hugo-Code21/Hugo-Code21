@@ -109,11 +109,11 @@ hobbies:  [Coding, Open Source]
 
 | | |
 |---|---|
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Full stack projects with PHP / Laravel & Kotlin apps |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Web & Mobile Projects |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="18" align="absmiddle" alt="" /> **Learning** | Advanced Systems Programming, TypeScript & React |
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="18" align="absmiddle" alt="" /> **Designing** | Clean UI systems in Figma |
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="18" align="absmiddle" alt="" /> **Open to** | Open source collaboration & freelance projects |
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-bolt.svg" width="18" align="absmiddle" alt="" /> **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="18" align="absmiddle" alt="" /> **Designing** | UI System in Figma |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="18" align="absmiddle" alt="" /> **Open to** | Open source collaboration & freelance projects  & Hire |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-bolt.svg" width="18" align="absmiddle" alt="" /> **Ask me about** | HTML, CSS, JavaScript, PHP, Kotlin, UI/UX, Graphic Design |
 
 </div>
 
