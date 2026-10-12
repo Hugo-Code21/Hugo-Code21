@@ -60,7 +60,7 @@ Right now I'm digging into **systems programming**, because understanding what h
 # ─────────────────────────────────────
 name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
-roles:    [Full Stack Developer, UI/UX Designer]
+roles:    [Full Stack Developer, UI/UX Designer, Graphic Designer]
 os:       Windows
 focus:    [HTML5, CSS3, PHP, JS, Kotlin]
 learning: Advanced Systems Programming
