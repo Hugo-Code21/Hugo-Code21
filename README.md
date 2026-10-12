@@ -50,7 +50,7 @@ I'm **Hugo**, a developer from Indonesia who sits right between **design** and *
 
 Right now I'm digging into **systems programming**, because understanding what happens under the hood makes me a better engineer at every level of the stack.
 
-> 💡 *"Good software looks great, feels fast, and is built to last."*
+> 💡 *"Good software looks great, feels fast, and is built forever."*
 
 </td>
 <td width="42%" valign="top" align="left">
