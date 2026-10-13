@@ -109,7 +109,7 @@ hobbies:  [Coding, Open Source]
 
 | | |
 |---|---|
-| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Web & Mobile Projects |
+| <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-code.svg" width="18" align="absmiddle" alt="" /> **Working on** | Web, Mobile Project, Graphic Design |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-chip.svg" width="18" align="absmiddle" alt="" /> **Learning** | Advanced Systems Programming, TypeScript & React |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-pen.svg" width="18" align="absmiddle" alt="" /> **Designing** | UI System in Figma |
 | <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/icon-globe.svg" width="18" align="absmiddle" alt="" /> **Open to** | Open source collaboration & freelance projects  & Hire |
