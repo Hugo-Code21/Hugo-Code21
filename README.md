@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/assets/hero.svg" width="100%" alt="Hugo Delvian Maheswara" />
 
-<h3>👋 Hey there, welcome to my little corner of GitHub!</h3>
+<h3>👋 Hey there, welcome to my little corner of GitHub, Hope you enjoy!</h3>
 
 <a href="https://github.com/Hugo-Code21">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=40&lines=%3E+whoami+%E2%86%92+Hugo+%F0%9F%91%8B;%3E+builds+%E2%86%92+pixel-perfect+interfaces+%F0%9F%8E%A8;%3E+ships+%E2%86%92+full+stack+apps+%F0%9F%9A%80;%3E+learning+%E2%86%92+systems+programming+%E2%9A%99%EF%B8%8F;%3E+status+%E2%86%92+open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
