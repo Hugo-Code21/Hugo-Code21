@@ -32,7 +32,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Helena%20My%20Chemical%20Romance)
 [![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=My+Chemical+Romance+Helena)
 
-<sub>🎶 Press play and keep scrolling, this one's on repeat in my head.</sub>
+<sub>🎶 Helena, this one's on repeat in my head.</sub>
 
 </div>
 
@@ -61,7 +61,7 @@ Right now I'm digging into **systems programming**, because understanding what h
 name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
 roles:    [Full Stack Developer, UI/UX Designer, Graphic Designer]
-os:       Windows
+os:       Windows, Mobile
 focus:    [HTML5, CSS3, PHP, JS, Kotlin]
 learning: Advanced Systems Programming
 hobbies:  [Coding, Open Source]
