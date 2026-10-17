@@ -64,7 +64,7 @@ roles:    [Full Stack Developer, UI/UX Designer, Graphic Designer]
 os:       Windows, Mobile
 focus:    [HTML5, CSS3, PHP, JS, Kotlin]
 learning: Advanced Systems Programming
-hobbies:  [Coding, Open Source]
+hobbies:  [Coding,Music,Games]
 ```
 
 </td>
