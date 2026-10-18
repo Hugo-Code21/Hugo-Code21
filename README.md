@@ -56,13 +56,13 @@ Right now I'm digging into **systems programming**, because understanding what h
 <td width="42%" valign="top" align="left">
 
 ```yaml
-# 🔴 🟡 🟢   hugo@github: ~/profile.yml
-# ─────────────────────────────────────
+ 🔴 🟡 🟢   hugo@github: ~/profile.yml
+ ─────────────────────────────────────
 name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
 roles:    [Full Stack Developer, UI/UX Designer, Graphic Designer]
 os:       Windows, Mobile
-focus:    [HTML5, CSS3, PHP, JS, Kotlin]
+focus:    [HTML5, CSS3, PHP, JS, Typescript]
 learning: Advanced Systems Programming
 hobbies:  [Coding,Music,Games]
 ```
