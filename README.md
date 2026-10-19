@@ -62,7 +62,7 @@ name:     Hugo Delvian Maheswara
 location: Indonesia 🇮🇩
 roles:    [Full Stack Developer, UI/UX Designer, Graphic Designer]
 os:       Windows, Mobile
-focus:    [HTML5, CSS3, PHP, JS, Typescript]
+focus:    [HTML5, CSS3, PHP, JS, Typescript, React]
 learning: Advanced Systems Programming
 hobbies:  [Coding,Music,Games]
 ```
