@@ -281,7 +281,7 @@ hobbies:  [Coding,Music,Games]
 
 <div align="center">
 
-<sub>Every square is a day of building 🟪</sub>
+<sub>Every square is example of my building 🟪</sub>
 
 <img src="https://ghchart.rshah.org/7F52FF/Hugo-Code21" alt="Contribution Graph" width="100%" />
 
