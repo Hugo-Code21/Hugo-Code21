@@ -32,7 +32,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Helena%20My%20Chemical%20Romance)
 [![YouTube](https://img.shields.io/badge/YouTube-Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=My+Chemical+Romance+Helena)
 
-<sub>🎶 Helena, this one's on always repeat in my head.</sub>
+<sub>🎶 Helena, this one's on always repeat everywhere.</sub>
 
 </div>
 
