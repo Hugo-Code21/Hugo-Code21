@@ -269,7 +269,7 @@ hobbies:  [Coding,Music,Games]
 
 <div align="center">
 
-<sub>My contributions, rendered as a 3D city 🏙️</sub>
+<sub>My little city 🏙️</sub>
 
 <img src="https://raw.githubusercontent.com/Hugo-Code21/Hugo-Code21/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Activity Graph" width="100%" />
 
